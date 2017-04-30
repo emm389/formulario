@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Formulario</string>
+    <string name="btn_cerrar">{ent_cross}</string>
+    <string name="tags">Tags</string>
+    <string name="nombre2">Nombre del negocio</string>
+    <string name="telefono">Teléfono</string>
+    <string name="ubicaNegocio">Ubica tu negocio en el mapa</string>
+    <string name="domicilio">Domicilio</string>
+    <string name="descripci_n">Descripción</string>
+    <string name="email2">Email</string>
+    <string name="web">Página web</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+    <string name="sexo">Sexo</string>
+    <string name="rango_de_edad">Rango de edad</string>
+    <string name="cuenta_con">Cuenta con...</string>
+    <string name="categorias">Categorias</string>
+    <string name="tipo4">Tipo de negocio</string>
+    <string name="crear">Crear</string>
+    <string name="agregar_negocio">Agregar negocio</string>
+    <string name="abrir_formulario">Abrir formulario</string>
 </resources>
